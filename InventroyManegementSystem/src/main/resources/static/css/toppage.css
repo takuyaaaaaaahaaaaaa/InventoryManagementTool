@@ -1,0 +1,19 @@
+.select-page {
+	display: -webkit-flex;
+	display: flex;
+	flex-flow: row;
+}
+
+.select-page ul {
+	flex: 1 1 auto;
+	margin: 0 2px 4px 2px;
+	border: solid 5px rgb(76, 134, 244);
+	height: 100px;
+	width: 100px;
+	padding: 8px;
+	list-style-type: none;
+	background: rgb(76, 134, 244);
+	color: #fff;
+	text-align:center;
+	line-height:100px
+}
